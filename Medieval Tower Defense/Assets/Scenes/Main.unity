@@ -5446,11 +5446,6 @@ Transform:
   m_Father: {fileID: 854378232}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1943767911 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2398507803697276972, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
-  m_PrefabInstance: {fileID: 3391666036262507006}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1944754102
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5968,7 +5963,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalRotation.x
@@ -5976,7 +5971,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalRotation.z
@@ -5988,16 +5983,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 574073362795209422, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4439314248409608724, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
-      propertyPath: defenderBody
-      value: 
-      objectReference: {fileID: 1943767911}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6da1bc60d39b6474f8f223bb9e644ecd, type: 3}
 --- !u!1001 &8784970073430744284
